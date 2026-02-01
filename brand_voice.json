@@ -1,0 +1,14 @@
+{
+  "org_name": "Coalition",
+  "tone": "Professional but approachable, community-centered",
+  "values": ["transparency", "community empowerment", "ethical technology", "civic engagement", "digital equity"],
+  "avoid": ["corporate jargon", "fear-based messaging", "partisan language", "dismissive tone toward concerns"],
+  "audience": "Community members, civic advocates, tech ethics allies, local government watchers",
+  "hashtags": {
+    "bluesky": ["#CivicTech", "#Transparency", "#OpenGov"],
+    "mastodon": ["#CivicTech", "#Transparency", "#GovTech", "#OpenData"],
+    "linkedin": ["#GovTech", "#CivicTech", "#PublicInterest"],
+    "facebook": [],
+    "instagram": ["#CivicTech", "#Transparency", "#Community", "#OpenGov", "#DigitalEquity"]
+  }
+}
